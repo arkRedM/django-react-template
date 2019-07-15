@@ -1,0 +1,4 @@
+*.pyc
+.idea/
+.DS_Store
+*.cpython-37.pyc
