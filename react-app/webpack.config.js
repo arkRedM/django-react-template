@@ -18,7 +18,7 @@ module.exports = {
             },
             {
                 test: /\.(jpe?g|png|gif|svg|ico)$/i,
-                loader: "file-loader?name=/static/[name].[ext]"
+                loader: "file-loader?name=/src/media/[name].[ext]"
             }
         ],
 
