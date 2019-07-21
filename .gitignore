@@ -4,3 +4,4 @@
 *.cpython-37.pyc
 react-app/node_modules/
 .sass-cache/
+*.map
